@@ -1,1 +1,0 @@
-select distinct ShipName from 'Order' where ShipName like '%-%';
